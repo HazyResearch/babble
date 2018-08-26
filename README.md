@@ -52,17 +52,18 @@ git clone https://github.com/HazyResearch/babble.git
 cd babble
 ```
 
-[3] Create virtual environment:
+[3] Set up environment:
 ```
 conda env create -f environment.yml
 source activate babble
+source add_to_path.sh
 ```
 
 [4] Run unit tests:
 ```
 nosetests
 ```
-If the tests run successfully, you will see a messag followed by "OK".  
+If the tests run successfully, you will see an "OK" printed at the end.
 The first time you run this may take extra time to install a language model for spaCy.
 
 [5] Run the tutorial:
