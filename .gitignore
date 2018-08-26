@@ -1,0 +1,11 @@
+# macOS
+*.DS_store
+
+# python
+**.pyc
+
+# ipython
+**checkpoint.ipynb
+
+# mypy
+**mypy_cache

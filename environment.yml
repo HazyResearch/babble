@@ -1,0 +1,12 @@
+name: babble
+channels:
+  - conda-forge
+dependencies:
+  - python=3.6
+  - nose
+  - numpy
+  - pandas
+  - scipy
+  - spacy>=2
+  - pip:
+    - snorkel-metal>=0.1.4
