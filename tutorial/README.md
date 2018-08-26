@@ -19,7 +19,7 @@ In the third tutorial, we discuss the pros and cons of a few variations of the f
 ## Setup
 1. General Babble Labble setup:
 
-First, follow the [instructions](https://github.com/HazyResearch/babble#Setup) in the main repository README for setting up your environment for Babble Labble.
+First, follow the [instructions](https://github.com/HazyResearch/babble#setup) in the main repository README for setting up your environment for Babble Labble.
 
 2. Launch Jupyter notebook:
 
