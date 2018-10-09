@@ -37,6 +37,8 @@ There's nothing special about our particular implementation of this pipeline; th
   year={2018},
 }
 ```
+Hancock, B., Varma, P., Wang, S., Bringmann, M., Liang, P. and Ré, C. Training Classifiers with Natural Language Explanations. ACL 2018.
+
 * [Training Classifiers with Natural Language Explanations](https://arxiv.org/abs/1805.03818) [ACL 2018]
 * [Snorkel: Rapid Training Data Creation with Weak Supervision](https://arxiv.org/abs/1711.10160) [VLDB 2018]
 * [Data Programming: Creating Large Training Sets, Quickly](https://arxiv.org/abs/1605.07723) [NIPS 2016]
