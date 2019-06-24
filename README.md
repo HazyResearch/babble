@@ -45,8 +45,8 @@ Hancock, B., Varma, P., Wang, S., Bringmann, M., Liang, P. and Ré, C. Training 
 
 ## Setup
 There are two ways to set up Babble Labble:
-* Option A: Local 
-* Option B: Docker
+* Option A: Docker 
+* Option B: Local
 
 The first step for both options is the same:  
 [0] Read the [Disclaimer](#disclaimer) 
